@@ -11,10 +11,13 @@ Once the dependencies are installed, you can run the app using the following com
 Copy code
 npm run dev
 
+
 FEATURES
+
 
 SEARCH
 The search feature allows you to search for memes by entering a keyword or phrase in the search box. The app will display a list of memes that match your search criteria.
+
 
 GENERATE RANDOM MEME
 The generate random meme feature allows you to generate a random meme. Simply click on the "Generate Random Meme" button, and the app will display a randomly generated meme.
